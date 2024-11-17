@@ -18,6 +18,3 @@ cursorTheme=DarkBolt
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.breeze
-
-[KSplash]
-Theme=org.kde.Breeze
