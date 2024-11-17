@@ -5,12 +5,10 @@
         "ServiceTypes": [
             "Plasma/LookAndFeel"
         ],
-        "EnabledByDefault": true,
         "Name": "Riskio",
         "Description": "Il mio tema",
         "Id": "riskio-global",
         "Version": "0.1",
-        "License": "GPL-2.0+",
         "Website": "https://rischiocinico.altervista.org/"
     },
     "X-KPackage-Dependencies": [
