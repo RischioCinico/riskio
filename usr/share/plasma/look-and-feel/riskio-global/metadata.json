@@ -1,15 +1,24 @@
 {
-  "KPackageStructure": "Plasma/LookAndFeel",
-  "KPlugin": {
-    "Category": "Global Themes (Plasma 6)",
-    "ServiceTypes": [
-      "Plasma/LookAndFeel"
-    ],
-    "EnabledByDefault": true,
-    "Name": "Riskio",
-    "Description": "Il mio tema",
-    "Id": "Riskio",
-    "Version": "0.1",
-    "Website": "https://rischiocinico.altervista.org/"
-    }
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "rischiocinico@bastardi.net",
+                "Name": "Rischio Cinico"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Riskio",
+        "Description": "Il mio tema personalizzato",
+        "Id": "Riskio",
+        "Version": "0.1",
+        "License": "GPL-2.0+",
+        "Website": "https://rischiocinico.altervista.org/"
+    },
+    "X-KPackage-Dependencies": [
+    ]
 }
