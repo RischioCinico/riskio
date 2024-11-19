@@ -1,1 +1,14 @@
 
+{
+    "KPlugin": {
+        "Category": "",
+        "Description": "Stile di Plasma personalizzato",
+        "EnabledByDefault": true,
+        "Id": "riskio-style",
+        "License": "LGPL",
+        "Name": "Riskio",
+        "Version": "6.5.0",
+        "Website": "https://rischiocinico.altervista.org"
+    },
+    "X-Plasma-API": "5.0"
+}
