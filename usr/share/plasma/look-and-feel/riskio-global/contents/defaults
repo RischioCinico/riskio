@@ -8,7 +8,7 @@ ColorScheme=BreezeDark
 Theme=Riskio-Icons
 
 [plasmarc][Theme]
-name=default
+name=riskio-style
 
 [Wallpaper]
 Image=Next
