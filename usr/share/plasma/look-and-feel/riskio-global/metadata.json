@@ -8,7 +8,7 @@
         "Name": "Riskio",
         "Description": "Tema personale",
         "Id": "riskio-global",
-        "Version": "0.3b",
+        "Version": "0.4",
         "Website": "https://rischiocinico.altervista.org/"
     },
     "X-KPackage-Dependencies": [
