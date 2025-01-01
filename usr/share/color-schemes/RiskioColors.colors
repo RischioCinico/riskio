@@ -51,12 +51,12 @@ BackgroundAlternate=10,10,10
 BackgroundNormal=0,0,0
 DecorationFocus=0,255,255
 DecorationHover=0,255,255
-ForegroundActive=255,255,255
+ForegroundActive=100,200,255
 ForegroundInactive=175,175,175
 ForegroundLink=85,85,255
 ForegroundNegative=255,0,0
 ForegroundNeutral=255,255,0
-ForegroundNormal=100,200,255
+ForegroundNormal=255,255,255
 ForegroundPositive=0,255,0
 ForegroundVisited=85,0,255
 
