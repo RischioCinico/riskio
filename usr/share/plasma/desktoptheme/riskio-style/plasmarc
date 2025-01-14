@@ -5,4 +5,4 @@ intensity=1
 saturation=0.1
 
 [AdaptiveTransparency]
-enabled=true
+enabled=false
