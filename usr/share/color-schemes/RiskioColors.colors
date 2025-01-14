@@ -132,7 +132,7 @@ ForegroundVisited=85,0,255
 
 [General]
 ColorScheme=Riskio-colors
-Name=Riskio-colors2
+Name=Riskio-colors
 shadeSortColumn=true
 
 [KDE]
