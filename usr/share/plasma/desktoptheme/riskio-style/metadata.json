@@ -7,7 +7,7 @@
         "Id": "riskio-style",
         "License": "LGPL",
         "Name": "Riskio",
-        "Version": "0.1",
+        "Version": "0.2",
         "Website": "https://rischiocinico.altervista.org"
     },
     "X-Plasma-API": "5.0"
