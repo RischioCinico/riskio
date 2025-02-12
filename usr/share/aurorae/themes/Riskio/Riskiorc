@@ -4,3 +4,10 @@ TitleVerticalAlignment=Top
 Animation=500
 ActiveTextColor=255,255,255
 InactiveTextColor=150,150,150
+Shadow=false
+
+[Layout]
+BorderLeft=5
+BorderRight=5
+BorderBottom=5
+BorderTop=5
