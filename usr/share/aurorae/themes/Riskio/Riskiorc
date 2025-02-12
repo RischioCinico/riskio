@@ -15,8 +15,8 @@ BorderTop=5
 
 TitleEdgeTop=15
 TitleEdgeBottom=10
-TitleEdgeLeft=10
-TitleEdgeRight=10
+TitleEdgeLeft=15
+TitleEdgeRight=15
 
 TitleEdgeTopMaximized=0
 TitleEdgeBottomMaximized=0
