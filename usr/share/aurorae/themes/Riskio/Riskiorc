@@ -8,9 +8,9 @@ Shadow=false
 
 [Layout]
 
-BorderLeft=5
-BorderRight=5
-BorderBottom=5
+BorderLeft=30
+BorderRight=30
+BorderBottom=30
 BorderTop=5
 
 TitleEdgeTop=15
