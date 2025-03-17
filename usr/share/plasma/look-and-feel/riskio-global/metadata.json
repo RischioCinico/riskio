@@ -6,9 +6,8 @@
             "Plasma/LookAndFeel"
         ],
         "Name": "Riskio",
-        "Description": "",
         "Id": "riskio-global",
-        "Version": "0.4",
+        "Version": "0.4"
     },
     "X-KPackage-Dependencies": [
     ]
