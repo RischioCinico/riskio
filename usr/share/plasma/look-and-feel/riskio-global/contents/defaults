@@ -10,9 +10,6 @@ Theme=Riskio-Icons
 [plasmarc][Theme]
 name=riskio-style
 
-[Wallpaper]
-Image=Next
-
 [kcminputrc][Mouse]
 cursorTheme=DarkBolt
 
