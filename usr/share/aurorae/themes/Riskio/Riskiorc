@@ -1,6 +1,6 @@
 [General]
 TitleAlignment=Center
-TitleVerticalAlignment=Top
+TitleVerticalAlignment=Bottom
 Animation=500
 ActiveTextColor=255,255,255
 InactiveTextColor=150,150,150
