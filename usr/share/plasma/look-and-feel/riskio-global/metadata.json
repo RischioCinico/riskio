@@ -7,7 +7,7 @@
         ],
         "Name": "Riskio",
         "Id": "riskio-global",
-        "Version": "0.4"
+        "Version": "0.5"
     },
     "X-KPackage-Dependencies": [
     ]
