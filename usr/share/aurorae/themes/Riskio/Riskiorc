@@ -8,41 +8,41 @@ Shadow=false
 
 [Layout]
 
-BorderLeft=30
-BorderRight=30
-BorderBottom=30
-BorderTop=5
+BorderLeft=5
+BorderRight=5
+BorderBottom=5
+BorderTop=0
 
-TitleEdgeTop=15
-TitleEdgeBottom=10
-TitleEdgeLeft=15
-TitleEdgeRight=15
+TitleEdgeTop=5
+TitleEdgeBottom=5
+TitleEdgeLeft=5
+TitleEdgeRight=5
 
 TitleEdgeTopMaximized=0
 TitleEdgeBottomMaximized=0
 TitleEdgeLeftMaximized=0
 TitleEdgeRightMaximized=0
 
-TitleBorderLeft=0
-TitleBorderRight=0
+TitleBorderLeft=5
+TitleBorderRight=5
 TitleHeight=20
 
-ButtonWidth=15
-ButtonWidthMinimize=15
-ButtonWidthMaximizeRestore=15
-ButtonWidthClose=15
-ButtonWidthAlldesktops=15
-ButtonWidthKeepabove=15
-ButtonWidthKeepbelow=15
-ButtonWidthShade=15
-ButtonWidthHelp=15
-ButtonWidthMenu=15
-ButtonHeight=15
-ButtonSpacing=15
+ButtonWidth=20
+ButtonWidthMinimize=20
+ButtonWidthMaximizeRestore=20
+ButtonWidthClose=20
+ButtonWidthAlldesktops=20
+ButtonWidthKeepabove=20
+ButtonWidthKeepbelow=20
+ButtonWidthShade=20
+ButtonWidthHelp=20
+ButtonWidthMenu=20
+ButtonHeight=20
+ButtonSpacing=5
 ButtonMarginTop=0
-ExplicitButtonSpacer=25
+ExplicitButtonSpacer=10
 
-PaddingTop=20
-PaddingBottom=20
-PaddingRight=20
-PaddingLeft=20
+PaddingTop=0
+PaddingBottom=0
+PaddingRight=0
+PaddingLeft=0
