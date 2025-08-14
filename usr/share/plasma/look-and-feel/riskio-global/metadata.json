@@ -5,9 +5,12 @@
         "ServiceTypes": [
             "Plasma/LookAndFeel"
         ],
+        "EnabledByDefault": true,
         "Name": "Riskio",
         "Id": "riskio-global",
-        "Version": "0.5"
+        "Version": "0.6",
+        "Website": "rischiocinico.altervista.org",
+        "X-Plasma-APIVersion": "2"
     },
     "X-KPackage-Dependencies": [
     ]
