@@ -5,7 +5,7 @@
         "EnabledByDefault": true,
         "Id": "riskio-style",
         "Name": "Riskio",
-        "Version": "0.9"
+        "Version": "0.10"
     },
     "X-Plasma-API": "5.0"
 }
