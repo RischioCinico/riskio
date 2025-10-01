@@ -7,6 +7,7 @@ toolbutton_style=1
 dialog_button_layout=1
 spread_progressbar=true
 progressbar_thickness=3font
+merge_menubar_with_toolbar=true
 composite=true
 menu_shadow_depth=6
 tooltip_shadow_depth=6
