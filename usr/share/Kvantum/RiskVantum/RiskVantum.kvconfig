@@ -12,7 +12,7 @@ composite=true
 menu_shadow_depth=6
 tooltip_shadow_depth=6
 translucent_windows=true
-reduce_window_opacity=50
+reduce_window_opacity=25
 reduce_menu_opacity=25
 opaque=kdenlive,vlc
 blurring=true
@@ -42,3 +42,11 @@ single_top_toolbar=false
 style_vertical_toolbars=true
 middle_click_scroll=false
 kinetic_scrolling=false
+
+[PanelButtonCommand]
+frame=true
+frame.element=button
+frame.top=9
+frame.bottom=9
+frame.left=9
+frame.right=9
