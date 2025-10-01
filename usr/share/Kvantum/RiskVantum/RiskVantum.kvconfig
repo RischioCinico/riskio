@@ -24,6 +24,26 @@ submenu_delay=-1
 fill_rubberband=true
 remove_extra_frames=true
 
+[GeneralColors]
+window.color=#001224
+base.color=#22222250
+alt.base.color=#44444450
+button.color=#001224
+light.color=#00ffff50
+mid.light.color=#00555550
+dark.color=#00122450
+mid.color=#00122475
+shadow.color=#00ffff50
+highlight.color=#00ffff50
+text.color=#eeffff
+window.text.color=#00ffff
+button.text.color=#00ffff
+disabled.text.color=#444444
+tooltip.text.color=white
+highlight.text.color=#00ffff
+link.color=#5555ff
+link.visited.color=#5500ff
+
 [Hacks]
 transparent_dolphin_view=true
 blur_translucent=true
