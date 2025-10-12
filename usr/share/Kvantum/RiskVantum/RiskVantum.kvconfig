@@ -8,6 +8,7 @@ dialog_button_layout=1
 spread_progressbar=true
 progressbar_thickness=3font
 merge_menubar_with_toolbar=false
+spread_menuitems=true
 composite=true
 translucent_windows=true
 reduce_window_opacity=25
