@@ -25,7 +25,8 @@ fill_rubberband=true
 remove_extra_frames=true
 
 [GeneralColors]
-window.color=#001224
+window.color=#002439
+
 base.color=#22222250
 alt.base.color=#44444425
 button.color=#001224
