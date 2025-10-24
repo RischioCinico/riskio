@@ -21,15 +21,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="37.123106"
-     inkscape:cy="89.802561"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="113.66742"
+     inkscape:cy="79.72629"
      inkscape:window-width="1983"
      inkscape:window-height="870"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg19"
+     inkscape:current-layer="toolbar-separator"
      showguides="false">
     <inkscape:grid
        id="grid19"
@@ -980,7 +980,7 @@
      id="scrollbargroove-normal-bottomright" />
   <g
      id="resize-grip-normal"
-     transform="translate(-152.99899,124.00012)"
+     transform="translate(-152.5,192.5)"
      style="fill:#fb3048">
     <rect
        width="25"
@@ -1018,7 +1018,7 @@
      height="1230"
      xlink:href="#resize-grip-normal"
      id="resize-grip-focused"
-     transform="translate(42.5,5.0000001)"
+     transform="translate(42.5,4.9999993)"
      style="fill:#ff5048" />
   <use
      width="450"
@@ -1743,7 +1743,7 @@
   <g
      id="tbutton-normal"
      style="fill:#14101f"
-     transform="translate(8.2505071,240.71422)">
+     transform="translate(8.749502,309.2141)">
     <path
        style="fill:#293847;fill-opacity:1;fill-rule:evenodd"
        id="aghg-4"
@@ -1751,7 +1751,7 @@
   </g>
   <g
      id="tbutton-normal-bottomright"
-     transform="rotate(180,42.875254,154.10706)"
+     transform="rotate(180,43.124751,188.357)"
      inkscape:label="button-normal-bottomright"
      style="fill:#331319">
     <rect
@@ -1786,7 +1786,7 @@
   </g>
   <g
      id="tbutton-normal-topleft"
-     transform="translate(8.2502781,240.71657)"
+     transform="translate(8.749273,309.21645)"
      inkscape:label="button-normal-bottomright"
      style="fill:#331319">
     <rect
@@ -1822,7 +1822,7 @@
   <g
      style="fill:#331319;fill-rule:evenodd"
      id="tbutton-normal-top"
-     transform="rotate(90,-58.733607,170.73061)">
+     transform="rotate(90,-92.734049,205.23005)">
     <path
        style="fill:#331319;fill-opacity:0"
        id="path21-9"
@@ -1840,7 +1840,7 @@
   <g
      style="fill:#331319;fill-rule:evenodd"
      id="tbutton-normal-right"
-     transform="rotate(180,46.000254,169.73056)">
+     transform="rotate(180,46.249751,203.9805)">
     <path
        style="fill:#331319;fill-opacity:0"
        id="path21-4-0"
@@ -1858,7 +1858,7 @@
   <g
      style="fill:#331319;fill-rule:evenodd"
      id="tbutton-normal-left"
-     transform="translate(2.0005071,209.47234)">
+     transform="translate(2.4995016,277.97222)">
     <path
        style="fill:#331319;fill-opacity:0"
        id="path21-4-0-4"
@@ -1876,7 +1876,7 @@
   <g
      style="fill:#331319;fill-rule:evenodd"
      id="tbutton-normal-bottom"
-     transform="rotate(-90,150.73416,168.72996)">
+     transform="rotate(-90,185.2336,202.73041)">
     <path
        style="fill:#331319;fill-opacity:0"
        id="path21-2-7"
@@ -1893,7 +1893,7 @@
   </g>
   <g
      id="tbutton-normal-topright"
-     transform="rotate(90,-77.481757,158.23266)"
+     transform="rotate(90,-111.4822,192.7321)"
      style="fill:#331319">
     <rect
        width="7.5"
@@ -1920,7 +1920,7 @@
   </g>
   <g
      id="tbutton-normal-bottomleft"
-     transform="rotate(-90,163.23487,149.98419)"
+     transform="rotate(-90,197.73431,183.98464)"
      style="fill:#331319">
     <rect
        width="7.5"
@@ -1948,7 +1948,7 @@
   <g
      id="tbutton-focused"
      style="fill:#272932"
-     transform="translate(93.376007,240.70962)">
+     transform="translate(93.875002,309.2095)">
     <path
        style="fill:#272932;fill-opacity:1;fill-rule:evenodd"
        id="aghg-4-1"
@@ -1956,7 +1956,7 @@
   </g>
   <g
      id="tbutton-focused-bottomright"
-     transform="rotate(180,85.438004,154.10456)"
+     transform="rotate(180,85.687501,188.3545)"
      inkscape:label="button-normal-bottomright"
      style="fill:#331319">
     <rect
@@ -1995,7 +1995,7 @@
   </g>
   <g
      id="tbutton-focused-topleft"
-     transform="translate(93.375297,240.71432)"
+     transform="translate(93.874292,309.2142)"
      inkscape:label="button-normal-bottomright"
      style="fill:#331319">
     <rect
@@ -2035,7 +2035,7 @@
   <g
      style="fill:#331319;fill-rule:evenodd"
      id="tbutton-focused-top"
-     transform="rotate(90,-16.168807,213.29081)">
+     transform="rotate(90,-50.169249,247.79025)">
     <path
        style="fill:#331319;fill-opacity:0"
        id="path21-9-9"
@@ -2053,7 +2053,7 @@
   <g
      style="fill:#331319;fill-rule:evenodd"
      id="tbutton-focused-right"
-     transform="rotate(180,88.563004,169.72806)">
+     transform="rotate(180,88.812501,203.978)">
     <path
        style="fill:#331319;fill-opacity:0"
        id="path21-4-0-1"
@@ -2071,7 +2071,7 @@
   <g
      style="fill:#331319;fill-rule:evenodd"
      id="tbutton-focused-left"
-     transform="translate(87.126007,209.46772)">
+     transform="translate(87.625002,277.9676)">
     <path
        style="fill:#331319;fill-opacity:0"
        id="path21-4-0-4-1"
@@ -2089,7 +2089,7 @@
   <g
      style="fill:#331319;fill-rule:evenodd"
      id="tbutton-focused-bottom"
-     transform="rotate(-90,193.29441,126.16471)">
+     transform="rotate(-90,227.79385,160.16516)">
     <path
        style="fill:#331319;fill-opacity:0"
        id="path21-2-7-4"
@@ -2106,7 +2106,7 @@
   </g>
   <g
      id="tbutton-focused-topright"
-     transform="rotate(90,-34.916907,200.79291)"
+     transform="rotate(90,-68.917349,235.29235)"
      style="fill:#331319">
     <rect
        width="7.5"
@@ -2133,7 +2133,7 @@
   </g>
   <g
      id="tbutton-focused-bottomleft"
-     transform="rotate(-90,205.79516,107.41896)"
+     transform="rotate(-90,240.2946,141.41941)"
      style="fill:#331319">
     <rect
        width="7.5"
@@ -2161,7 +2161,7 @@
   <g
      id="tbutton-pressed"
      style="fill:#00f0ff"
-     transform="translate(185.47301,242.04612)">
+     transform="translate(185.972,310.546)">
     <path
        style="opacity:0.35;fill:#00f0ff;fill-opacity:1;fill-rule:evenodd"
        id="aghg-4-1-8"
@@ -2169,7 +2169,7 @@
   </g>
   <g
      id="tbutton-pressed-bottomright"
-     transform="rotate(180,131.4865,154.77256)"
+     transform="rotate(180,131.73599,189.0225)"
      inkscape:label="button-normal-bottomright"
      style="fill:#00f0ff">
     <rect
@@ -2208,7 +2208,7 @@
   </g>
   <g
      id="tbutton-pressed-topleft"
-     transform="translate(185.47201,242.05082)"
+     transform="translate(185.971,310.5507)"
      inkscape:label="button-normal-bottomright"
      style="fill:#00f0ff">
     <rect
@@ -2248,7 +2248,7 @@
   <g
      style="fill:#00f0ff;fill-rule:evenodd"
      id="tbutton-pressed-top"
-     transform="rotate(90,29.211443,260.00756)">
+     transform="rotate(90,-4.7889992,294.507)">
     <path
        style="fill:#00f0ff;fill-opacity:0"
        id="path21-9-9-7"
@@ -2266,7 +2266,7 @@
   <g
      style="fill:#00f0ff;fill-rule:evenodd"
      id="tbutton-pressed-right"
-     transform="rotate(180,134.6115,170.39606)">
+     transform="rotate(180,134.86099,204.646)">
     <path
        style="fill:#00f0ff;fill-opacity:0"
        id="path21-4-0-1-5"
@@ -2284,7 +2284,7 @@
   <g
      style="fill:#00f0ff;fill-rule:evenodd"
      id="tbutton-pressed-left"
-     transform="translate(179.22301,210.80422)">
+     transform="translate(179.722,279.3041)">
     <path
        style="fill:#00f0ff;fill-opacity:0"
        id="path21-4-0-4-1-8"
@@ -2302,7 +2302,7 @@
   <g
      style="fill:#00f0ff;fill-rule:evenodd"
      id="tbutton-pressed-bottom"
-     transform="rotate(-90,240.01106,80.784057)">
+     transform="rotate(-90,274.5105,114.7845)">
     <path
        style="fill:#00f0ff;fill-opacity:0"
        id="path21-2-7-4-0"
@@ -2319,7 +2319,7 @@
   </g>
   <g
      id="tbutton-pressed-topright"
-     transform="rotate(90,10.463343,247.50966)"
+     transform="rotate(90,-23.537099,282.0091)"
      style="fill:#00f0ff">
     <rect
        width="7.5"
@@ -2346,7 +2346,7 @@
   </g>
   <g
      id="tbutton-pressed-bottomleft"
-     transform="rotate(-90,252.51156,62.038557)"
+     transform="rotate(-90,287.011,96.038999)"
      style="fill:#00f0ff">
     <rect
        width="7.5"
@@ -2374,7 +2374,7 @@
   <g
      id="tbutton-toggled"
      style="fill:#00f0ff"
-     transform="translate(256.22101,243.86622)">
+     transform="translate(256.72,312.3661)">
     <path
        style="opacity:0.35;fill:#00f0ff;fill-opacity:1;fill-rule:evenodd"
        id="aghg-4-1-8-1"
@@ -2382,7 +2382,7 @@
   </g>
   <g
      id="tbutton-toggled-bottomright"
-     transform="rotate(180,166.8605,155.68256)"
+     transform="rotate(180,167.10999,189.9325)"
      inkscape:label="button-normal-bottomright"
      style="fill:#00f0ff">
     <rect
@@ -2421,7 +2421,7 @@
   </g>
   <g
      id="tbutton-toggled-topleft"
-     transform="translate(256.22001,243.87092)"
+     transform="translate(256.719,312.3708)"
      inkscape:label="button-normal-bottomright"
      style="fill:#00f0ff">
     <rect
@@ -2461,7 +2461,7 @@
   <g
      style="fill:#00f0ff;fill-rule:evenodd"
      id="tbutton-toggled-top"
-     transform="rotate(90,63.675393,296.29161)">
+     transform="rotate(90,29.674951,330.79105)">
     <path
        style="fill:#00f0ff;fill-opacity:0"
        id="path21-9-9-7-8"
@@ -2479,7 +2479,7 @@
   <g
      style="fill:#00f0ff;fill-rule:evenodd"
      id="tbutton-toggled-right"
-     transform="rotate(180,169.9855,171.30606)">
+     transform="rotate(180,170.23499,205.556)">
     <path
        style="fill:#00f0ff;fill-opacity:0"
        id="path21-4-0-1-5-2"
@@ -2497,7 +2497,7 @@
   <g
      style="fill:#00f0ff;fill-rule:evenodd"
      id="tbutton-toggled-left"
-     transform="translate(249.97101,212.62432)">
+     transform="translate(250.47,281.1242)">
     <path
        style="fill:#00f0ff;fill-opacity:0"
        id="path21-4-0-4-1-8-6"
@@ -2515,7 +2515,7 @@
   <g
      style="fill:#00f0ff;fill-rule:evenodd"
      id="tbutton-toggled-bottom"
-     transform="rotate(-90,276.29506,46.320057)">
+     transform="rotate(-90,310.7945,80.320499)">
     <path
        style="fill:#00f0ff;fill-opacity:0"
        id="path21-2-7-4-0-1"
@@ -2532,7 +2532,7 @@
   </g>
   <g
      id="tbutton-toggled-topright"
-     transform="rotate(90,44.927292,283.79371)"
+     transform="rotate(90,10.92685,318.29315)"
      style="fill:#00f0ff">
     <rect
        width="7.5"
@@ -2559,7 +2559,7 @@
   </g>
   <g
      id="tbutton-toggled-bottomleft"
-     transform="rotate(-90,288.79556,27.574557)"
+     transform="rotate(-90,323.295,61.574999)"
      style="fill:#00f0ff">
     <rect
        width="7.5"
@@ -2915,43 +2915,43 @@
   </g>
   <path
      style="fill:#00f0ff"
-     d="m 400.71901,271.60538 h -6 v 6 h 6 z"
+     d="m 401.218,340.10526 h -6 v 6 h 6 z"
      id="header-normal-bottom" />
   <path
      style="fill:#00f0ff"
-     d="m 406.71901,271.60538 h -6 v 6 h 6 z"
+     d="m 407.218,340.10526 h -6 v 6 h 6 z"
      id="header-normal-bottomleft" />
   <path
      style="fill:#00f0ff"
-     d="m 412.71901,271.60538 h -6 v 6 h 6 z"
+     d="m 413.218,340.10526 h -6 v 6 h 6 z"
      id="header-normal-bottomright" />
   <path
      style="fill:#00f0ff"
-     d="m 400.71901,265.60538 h -6 v 6 h 6 z"
+     d="m 401.218,334.10526 h -6 v 6 h 6 z"
      id="header-normal-top" />
   <path
      style="fill:#00f0ff"
-     d="m 406.71901,265.60538 h -6 v 6 h 6 z"
+     d="m 407.218,334.10526 h -6 v 6 h 6 z"
      id="header-normal-topright" />
   <path
      style="fill:#00f0ff"
-     d="m 412.71901,265.60538 h -6 v 6 h 6 z"
+     d="m 413.218,334.10526 h -6 v 6 h 6 z"
      id="header-normal-topleft" />
   <path
      style="fill:#00f0ff"
-     d="m 412.49822,261.36532 v -6 h -6 v 6 z"
+     d="m 412.99721,329.8652 v -6 h -6 v 6 z"
      id="header-normal-left" />
   <path
      style="fill:#00f0ff"
-     d="m 406.49822,261.36532 v -6 h -6 v 6 z"
+     d="m 406.99721,329.8652 v -6 h -6 v 6 z"
      id="header-normal-right" />
   <path
      style="fill:#14101f;fill-opacity:1"
-     d="m 400.49822,261.36532 v -6 h -6 v 6 z"
+     d="m 400.99721,329.8652 v -6 h -6 v 6 z"
      id="header-normal" />
   <path
      style="fill:#00f0ff"
-     d="m 380.25001,275.75012 v -6 h -6 v 6 z"
+     d="m 380.749,344.25 v -6 h -6 v 6 z"
      id="header-separator" />
   <g
      style="fill:#ff5048;fill-rule:evenodd"
@@ -5974,19 +5974,19 @@
   <path
      style="fill:#ff00ff;fill-rule:evenodd"
      id="expand-button-normal"
-     d="m 25.750027,210.46667 h 10 v 10 h -10 z" />
+     d="m 26.249022,278.96655 h 10 v 10 h -10 z" />
   <path
      style="fill:#ff0000;fill-rule:evenodd"
      id="expand-tbutton-normal"
-     d="m 25.250007,225.75012 h 10 v 10 h -10 z" />
+     d="m 25.749002,294.25 h 10 v 10 h -10 z" />
   <path
      style="fill:#ffff00;fill-rule:evenodd"
      id="expand-lineedit-normal"
-     d="m 43.250007,210.75012 h 10 v 10 h -10 z" />
+     d="m 43.749002,279.25 h 10 v 10 h -10 z" />
   <path
      style="fill:#00ff00;fill-rule:evenodd"
      id="expand-itemview-normal"
-     d="m 62.000017,210.46432 h 10 v 10 h -10 z" />
+     d="m 62.499012,278.9642 h 10 v 10 h -10 z" />
   <path
      style="opacity:0.35;fill:#00f0ff;fill-rule:evenodd"
      id="menubaritem-toggled"
@@ -6609,11 +6609,11 @@
        style="opacity:0;fill:#5c7c99;fill-opacity:1"
        id="rect30" />
     <rect
-       width="1.0631914"
-       x="-436.03159"
+       width="0.53160572"
+       x="-435.5"
        y="141.5"
        height="8"
-       style="fill:#5c7c99;fill-rule:evenodd;stroke-width:0.999998;fill-opacity:1"
+       style="fill:#5c7c99;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
        id="rect31"
        transform="scale(-1,1)" />
   </g>
@@ -7664,4 +7664,15 @@
        id="tspan4504"
        sodipodi:role="line"
        style="font-size:10px;line-height:1.25;fill:#1a1a1a">Handle</tspan></text>
+  <text
+     xml:space="preserve"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:cmr10;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+     x="-121.99703"
+     y="190.45964"
+     id="text6343"><tspan
+       sodipodi:role="line"
+       id="tspan6345"
+       x="-121.99703"
+       y="190.45964"
+       style="font-size:20.3479px;line-height:0;fill:#1a1a1a">Progressbar</tspan></text>
 </svg>
