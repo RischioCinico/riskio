@@ -21,15 +21,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="113.66742"
-     inkscape:cy="79.72629"
+     inkscape:zoom="0.99999999"
+     inkscape:cx="278.5"
+     inkscape:cy="221"
      inkscape:window-width="1983"
-     inkscape:window-height="870"
+     inkscape:window-height="1076"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="toolbar-separator"
+     inkscape:current-layer="svg19"
      showguides="false">
     <inkscape:grid
        id="grid19"
@@ -544,53 +544,53 @@
        d="m 495.50262,453.85937 -1173.01685,0 m 1176.01685,3 -1173.01685,0 m 1176.01685,3 -1173.01685,0 m 1176.01685,3 -1173.01685,0 m 1164.01685,-9 9,9 m -400.00562,-9 9,9 m -400.00561,-9 9,9 m -400.00562,-9 9,9" />
   </g>
   <rect
-     width="32.5"
-     x="183.75"
-     y="382.5"
-     height="32.5"
-     style="fill:#14101f"
+     width="30.789366"
+     x="12.105316"
+     y="172.1051"
+     height="30.789633"
+     style="fill:#272932;stroke-width:0.999996;fill-opacity:1"
      id="progress-normal" />
   <g
-     style="fill:#ff5048;fill-rule:evenodd"
+     style="fill:#ff5048;fill-rule:evenodd;stroke-width:1.05555"
      id="progress-normal-left"
-     transform="translate(-66.249992,213.74999)">
+     transform="matrix(0.94736512,0,0,0.94737329,-224.73596,12.235839)">
     <path
-       style="fill:#331319;fill-opacity:0;fill-rule:evenodd"
+       style="fill:#331319;fill-opacity:0;fill-rule:evenodd;stroke-width:1.05555"
        id="path21-2-0"
        d="m 242.50001,168.75008 v 32.5 h 2.25 c -0.007,-0.13412 0,-0.27049 0,-0.40625 v -31.6875 c 0,-0.13578 -0.007,-0.27215 0,-0.40625 z" />
     <path
-       style="fill:#14101f;fill-opacity:1;fill-rule:evenodd"
+       style="fill:#272932;fill-opacity:1;fill-rule:evenodd;stroke-width:1.05555"
        id="path22-5-4"
        d="m 244.75,168.75011 v 32.4999 H 250 v -32.5 z" />
     <path
-       style="fill:#ff5048;fill-opacity:1;fill-rule:evenodd;stroke-width:0.999999"
+       style="fill:#5c7c99;fill-opacity:1;fill-rule:evenodd;stroke-width:1.05555"
        id="path23-5-4-8"
        d="m 244.75018,168.74964 v 32.49999 H 245.5 v -32.5 z" />
   </g>
   <g
-     style="fill:#ff5048;fill-rule:evenodd"
+     style="fill:#ff5048;fill-rule:evenodd;stroke-width:1.05555"
      id="progress-normal-topleft"
-     transform="translate(-66.249992,213.74999)">
+     transform="matrix(0.94736512,0,0,0.94737329,-224.73596,12.235839)">
     <rect
        width="7.5"
        x="242.49991"
        y="161.25021"
        height="7.5"
-       style="fill:#331319;fill-opacity:0"
+       style="fill:#331319;fill-opacity:0;stroke-width:1.05555"
        id="rect22-0-8-1" />
     <rect
-       style="fill:#14101f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#272932;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.05555"
        id="rect23-4-10-7"
        width="5.2500381"
        height="5.2499599"
        x="244.74988"
        y="163.50005" />
     <path
-       style="fill:#ff5048;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       style="fill:#5c7c99;fill-opacity:1;fill-rule:evenodd;stroke-width:1.05555"
        id="path23-5-5-29-3-2"
        d="m 244.74988,163.50005 v 5.24996 h 0.74982 v -5.24996 z" />
     <path
-       style="fill:#ff5048;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       style="fill:#5c7c99;fill-opacity:1;fill-rule:evenodd;stroke-width:1.05555"
        id="path23-5-5-2-6-0-7"
        d="m 250.00022,163.50082 h -5.24996 v 0.74982 h 5.24996 z" />
   </g>
@@ -1025,29 +1025,29 @@
      height="1230"
      xlink:href="#progress-normal-topleft"
      id="progress-normal-topright"
-     transform="rotate(90,200,398.74999)"
-     style="fill:#14101f" />
+     transform="matrix(0,1.0000086,-0.99999137,0,214.99828,159.99966)"
+     style="fill:#14101f;stroke-width:1.05555" />
   <use
      width="450"
      height="1230"
      xlink:href="#progress-normal-topleft"
      id="progress-normal-bottomright"
-     transform="rotate(180,200,398.74998)"
-     style="fill:#14101f" />
+     transform="rotate(180,27.499999,187.49989)"
+     style="fill:#14101f;stroke-width:1.05555" />
   <use
      width="450"
      height="1230"
      xlink:href="#progress-normal-topleft"
      id="progress-normal-bottomleft"
-     transform="matrix(1,0,0,-1,9.8007813e-7,797.49994)"
-     style="fill:#14101f" />
+     transform="matrix(1,0,0,-1,-4.4777807e-8,374.99976)"
+     style="fill:#14101f;stroke-width:1.05555" />
   <use
      width="450"
      height="1230"
      xlink:href="#progress-normal-left"
      id="progress-normal-top"
-     transform="rotate(90,200,398.74999)"
-     style="fill:#14101f" />
+     transform="matrix(0,1.0000086,-0.99999137,0,214.99828,159.99966)"
+     style="fill:#272932;stroke-width:1.05555;fill-opacity:1" />
   <use
      width="450"
      height="1230"
@@ -1247,15 +1247,15 @@
      height="1230"
      xlink:href="#progress-normal-left"
      id="progress-normal-right"
-     transform="rotate(180,200.00001,398.74984)"
-     style="fill:#14101f" />
+     transform="rotate(180,27.500009,187.49976)"
+     style="fill:#14101f;stroke-width:1.05555" />
   <use
      width="450"
      height="1230"
      xlink:href="#progress-normal-left"
      id="progress-normal-bottom"
-     transform="rotate(-90,200,398.74999)"
-     style="fill:#14101f" />
+     transform="matrix(0,-1.0000086,0.99999137,0,-159.99828,215.00014)"
+     style="fill:#14101f;stroke-width:1.05555" />
   <use
      width="450"
      height="1230"
@@ -2595,7 +2595,8 @@
       <path
          style="fill:#272932;fill-opacity:1;fill-rule:evenodd"
          id="aghg-4-7-1"
-         d="m 22.5,17.5047 v 32.5 H 55 v -32.5 z" />
+         d="m 22.5,17.5047 v 32.5 H 55 v -32.5 z"
+         sodipodi:nodetypes="ccccc" />
     </g>
     <g
        id="lineedit-focused-bottomright"
@@ -7668,11 +7669,11 @@
      xml:space="preserve"
      style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:cmr10;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
      x="-121.99703"
-     y="190.45964"
+     y="195.45964"
      id="text6343"><tspan
        sodipodi:role="line"
        id="tspan6345"
        x="-121.99703"
-       y="190.45964"
+       y="195.45964"
        style="font-size:20.3479px;line-height:0;fill:#1a1a1a">Progressbar</tspan></text>
 </svg>
