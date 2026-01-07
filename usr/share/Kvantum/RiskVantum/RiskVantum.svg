@@ -23,7 +23,7 @@
      showgrid="true"
      inkscape:zoom="4.0000002"
      inkscape:cx="120.12499"
-     inkscape:cy="176.99999"
+     inkscape:cy="206.99999"
      inkscape:window-width="1983"
      inkscape:window-height="1076"
      inkscape:window-x="0"
@@ -5993,7 +5993,7 @@
        inkscape:label="radio-focused"
        transform="translate(13.61473,-210.80263)" />
     <path
-       style="color:#000000;fill:#293847;stroke:#5c7c99;stroke-width:1.001;stroke-opacity:1;fill-opacity:1"
+       style="color:#000000;fill:#5c7c99;stroke:#a8deff;stroke-width:1.001;stroke-opacity:1;fill-opacity:1"
        id="radio-normal"
        d="m 35.500731,238.02182 c 0.01174,4.15047 -3.349606,7.52132 -7.5001,7.52132 -4.150494,0 -7.511839,-3.37085 -7.5001,-7.52132 -0.01174,-4.15047 3.349606,-7.52132 7.5001,-7.52132 0.987556,0 1.930435,0.19084 2.79383,0.53761 2.765276,1.11063 4.715216,3.82079 4.70627,6.98371 z"
        sodipodi:nodetypes="cscssc" />
