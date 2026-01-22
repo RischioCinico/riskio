@@ -25,7 +25,7 @@ fill_rubberband=true
 remove_extra_frames=true
 
 [GeneralColors]
-window.color=#000f1A
+window.color=#020617
 inactive.window.color=#0A131A
 base.color=#14232E
 inactive.base.color=#101E29
@@ -46,10 +46,10 @@ window.text.color=#F0F8FF
 inactive.window.text.color=#98C0D9
 button.text.color=#DDEEFF
 disabled.text.color=#5C7C99
-highlight.text.color=#000F1A
-inactive.highlight.text.color=#000F1A
+highlight.text.color=#020617
+inactive.highlight.text.color=#020617
 link.color=#4ABEFF
-progress.indicator.text.color=#000F1A
+progress.indicator.text.color=#020617
 
 [Hacks]
 transparent_dolphin_view=true
