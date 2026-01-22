@@ -27,7 +27,7 @@ remove_extra_frames=true
 [GeneralColors]
 window.color=#020617
 inactive.window.color=#0A131A
-base.color=#14232E
+base.color=##000105
 inactive.base.color=#101E29
 alt.base.color=#18273360
 inactive.alt.base.color=#13222E60
