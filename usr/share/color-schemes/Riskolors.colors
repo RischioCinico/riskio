@@ -28,7 +28,7 @@ ForegroundInactive=
 ForegroundLink=
 ForegroundNegative=255,92,92
 ForegroundNeutral=255,210,74
-ForegroundNormal=
+ForegroundNormal=230,237,243
 ForegroundPositive=142,255,74
 ForegroundVisited=
 
@@ -42,7 +42,7 @@ ForegroundInactive=
 ForegroundLink=
 ForegroundNegative=255,92,92
 ForegroundNeutral=255,210,74
-ForegroundNormal=
+ForegroundNormal=230,237,243
 ForegroundPositive=142,255,74
 ForegroundVisited=
 
@@ -56,7 +56,7 @@ ForegroundInactive=
 ForegroundLink=
 ForegroundNegative=255,92,92
 ForegroundNeutral=255,210,74
-ForegroundNormal=
+ForegroundNormal=230,237,243
 ForegroundPositive=142,255,74
 ForegroundVisited=
 
@@ -70,7 +70,7 @@ ForegroundInactive=
 ForegroundLink=
 ForegroundNegative=255,92,92
 ForegroundNeutral=255,210,74
-ForegroundNormal=
+ForegroundNormal=230,237,243
 ForegroundPositive=142,255,74
 ForegroundVisited=
 
@@ -84,7 +84,7 @@ ForegroundInactive=
 ForegroundLink=
 ForegroundNegative=255,92,92
 ForegroundNeutral=255,210,74
-ForegroundNormal=
+ForegroundNormal=230,237,243
 ForegroundPositive=142,255,74
 ForegroundVisited=
 
@@ -98,7 +98,7 @@ ForegroundInactive=
 ForegroundLink=
 ForegroundNegative=255,92,92
 ForegroundNeutral=255,210,74
-ForegroundNormal=
+ForegroundNormal=230,237,243
 ForegroundPositive=142,255,74
 ForegroundVisited=
 
@@ -112,7 +112,7 @@ ForegroundInactive=
 ForegroundLink=
 ForegroundNegative=255,92,92
 ForegroundNeutral=255,210,74
-ForegroundNormal=
+ForegroundNormal=230,237,243
 ForegroundPositive=142,255,74
 ForegroundVisited=
 
@@ -126,7 +126,7 @@ ForegroundInactive=
 ForegroundLink=
 ForegroundNegative=255,92,92
 ForegroundNeutral=255,210,74
-ForegroundNormal=
+ForegroundNormal=230,237,243
 ForegroundPositive=142,255,74
 ForegroundVisited=
 
