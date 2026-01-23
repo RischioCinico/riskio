@@ -47,8 +47,8 @@ ForegroundPositive=
 ForegroundVisited=
 
 [Colors:Header]
-BackgroundAlternate=
-BackgroundNormal=
+BackgroundAlternate=11,17,32
+BackgroundNormal=2,6,23
 DecorationFocus=
 DecorationHover=
 ForegroundActive=
@@ -61,8 +61,8 @@ ForegroundPositive=
 ForegroundVisited=
 
 [Colors:Header][Inactive]
-BackgroundAlternate=
-BackgroundNormal=
+BackgroundAlternate=11,17,32
+BackgroundNormal=2,6,23
 DecorationFocus=
 DecorationHover=
 ForegroundActive=
@@ -103,8 +103,8 @@ ForegroundPositive=
 ForegroundVisited=
 
 [Colors:View]
-BackgroundAlternate=
-BackgroundNormal=
+BackgroundAlternate=11,17,32
+BackgroundNormal=2,6,23
 DecorationFocus=
 DecorationHover=
 ForegroundActive=
@@ -117,8 +117,8 @@ ForegroundPositive=
 ForegroundVisited=
 
 [Colors:Window]
-BackgroundAlternate=
-BackgroundNormal=
+BackgroundAlternate=11,17,32
+BackgroundNormal=2,6,23
 DecorationFocus=
 DecorationHover=
 ForegroundActive=
