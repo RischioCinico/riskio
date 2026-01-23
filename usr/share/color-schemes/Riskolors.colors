@@ -26,10 +26,10 @@ DecorationHover=0,229,255
 ForegroundActive=
 ForegroundInactive=
 ForegroundLink=
-ForegroundNegative=
+ForegroundNegative=255,92,92
 ForegroundNeutral=
 ForegroundNormal=
-ForegroundPositive=
+ForegroundPositive=142,255,74
 ForegroundVisited=
 
 [Colors:Complementary]
@@ -40,10 +40,10 @@ DecorationHover=0,229,255
 ForegroundActive=
 ForegroundInactive=
 ForegroundLink=
-ForegroundNegative=
+ForegroundNegative=255,92,92
 ForegroundNeutral=
 ForegroundNormal=
-ForegroundPositive=
+ForegroundPositive=142,255,74
 ForegroundVisited=
 
 [Colors:Header]
@@ -54,10 +54,10 @@ DecorationHover=0,229,255
 ForegroundActive=0,170,255
 ForegroundInactive=
 ForegroundLink=
-ForegroundNegative=
+ForegroundNegative=255,92,92
 ForegroundNeutral=
 ForegroundNormal=
-ForegroundPositive=
+ForegroundPositive=142,255,74
 ForegroundVisited=
 
 [Colors:Header][Inactive]
@@ -68,10 +68,10 @@ DecorationHover=0,229,255
 ForegroundActive=0,170,255
 ForegroundInactive=
 ForegroundLink=
-ForegroundNegative=
+ForegroundNegative=255,92,92
 ForegroundNeutral=
 ForegroundNormal=
-ForegroundPositive=
+ForegroundPositive=142,255,74
 ForegroundVisited=
 
 [Colors:Selection]
@@ -82,10 +82,10 @@ DecorationHover=0,229,255
 ForegroundActive=
 ForegroundInactive=
 ForegroundLink=
-ForegroundNegative=
+ForegroundNegative=255,92,92
 ForegroundNeutral=
 ForegroundNormal=
-ForegroundPositive=
+ForegroundPositive=142,255,74
 ForegroundVisited=
 
 [Colors:Tooltip]
@@ -96,10 +96,10 @@ DecorationHover=0,229,255
 ForegroundActive=
 ForegroundInactive=
 ForegroundLink=
-ForegroundNegative=
+ForegroundNegative=255,92,92
 ForegroundNeutral=
 ForegroundNormal=
-ForegroundPositive=
+ForegroundPositive=142,255,74
 ForegroundVisited=
 
 [Colors:View]
@@ -110,10 +110,10 @@ DecorationHover=0,229,255
 ForegroundActive=
 ForegroundInactive=
 ForegroundLink=
-ForegroundNegative=
+ForegroundNegative=255,92,92
 ForegroundNeutral=
 ForegroundNormal=
-ForegroundPositive=
+ForegroundPositive=142,255,74
 ForegroundVisited=
 
 [Colors:Window]
@@ -124,10 +124,10 @@ DecorationHover=0,229,255
 ForegroundActive=
 ForegroundInactive=
 ForegroundLink=
-ForegroundNegative=
+ForegroundNegative=255,92,92
 ForegroundNeutral=
 ForegroundNormal=
-ForegroundPositive=
+ForegroundPositive=142,255,74
 ForegroundVisited=
 
 [General]
