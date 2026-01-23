@@ -21,7 +21,7 @@ IntensityEffect=0
 [Colors:Button]
 BackgroundAlternate=11,17,32
 BackgroundNormal=2,6,23
-DecorationFocus=
+DecorationFocus=0,170,255
 DecorationHover=
 ForegroundActive=
 ForegroundInactive=
@@ -35,7 +35,7 @@ ForegroundVisited=
 [Colors:Complementary]
 BackgroundAlternate=11,17,32
 BackgroundNormal=2,6,23
-DecorationFocus=
+DecorationFocus=0,170,255
 DecorationHover=
 ForegroundActive=
 ForegroundInactive=
@@ -49,9 +49,9 @@ ForegroundVisited=
 [Colors:Header]
 BackgroundAlternate=11,17,32
 BackgroundNormal=2,6,23
-DecorationFocus=
+DecorationFocus=0,170,255
 DecorationHover=
-ForegroundActive=
+ForegroundActive=0,170,255
 ForegroundInactive=
 ForegroundLink=
 ForegroundNegative=
@@ -63,9 +63,9 @@ ForegroundVisited=
 [Colors:Header][Inactive]
 BackgroundAlternate=11,17,32
 BackgroundNormal=2,6,23
-DecorationFocus=
+DecorationFocus=0,170,255
 DecorationHover=
-ForegroundActive=
+ForegroundActive=0,170,255
 ForegroundInactive=
 ForegroundLink=
 ForegroundNegative=
@@ -75,9 +75,9 @@ ForegroundPositive=
 ForegroundVisited=
 
 [Colors:Selection]
-BackgroundAlternate=
-BackgroundNormal=
-DecorationFocus=
+BackgroundAlternate=0,170,255
+BackgroundNormal=0,170,255
+DecorationFocus=0,170,255
 DecorationHover=
 ForegroundActive=
 ForegroundInactive=
@@ -89,9 +89,9 @@ ForegroundPositive=
 ForegroundVisited=
 
 [Colors:Tooltip]
-BackgroundAlternate=
-BackgroundNormal=
-DecorationFocus=
+BackgroundAlternate=11,17,32
+BackgroundNormal=2,6,23
+DecorationFocus=0,170,255
 DecorationHover=
 ForegroundActive=
 ForegroundInactive=
@@ -105,7 +105,7 @@ ForegroundVisited=
 [Colors:View]
 BackgroundAlternate=11,17,32
 BackgroundNormal=2,6,23
-DecorationFocus=
+DecorationFocus=0,170,255
 DecorationHover=
 ForegroundActive=
 ForegroundInactive=
@@ -119,7 +119,7 @@ ForegroundVisited=
 [Colors:Window]
 BackgroundAlternate=11,17,32
 BackgroundNormal=2,6,23
-DecorationFocus=
+DecorationFocus=0,170,255
 DecorationHover=
 ForegroundActive=
 ForegroundInactive=
