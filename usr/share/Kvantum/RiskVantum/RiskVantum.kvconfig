@@ -26,12 +26,12 @@ remove_extra_frames=true
 
 [GeneralColors]
 window.color=#020617
-inactive.window.color=#0A131A
-base.color=#000105
-inactive.base.color=#101E29
-alt.base.color=#18273360
-inactive.alt.base.color=#13222E60
-button.color=#293847
+inactive.window.color=#020617
+base.color=#020617
+inactive.base.color=#020617
+alt.base.color=#0b1120
+inactive.alt.base.color=#0b1120
+button.color=#0b1120
 light.color=#A8DEFF
 mid.light.color=#5C7C99
 dark.color=#1A242E
@@ -39,16 +39,16 @@ mid.color=#223140
 shadow.color=#000000
 highlight.color=#00F0FF
 inactive.highlight.color=#008C99
-tooltip.base.color=#172C3D
-text.color=#C8F0FF
-inactive.text.color=#98C0D9
-window.text.color=#F0F8FF
-inactive.window.text.color=#98C0D9
-button.text.color=#DDEEFF
-disabled.text.color=#5C7C99
+tooltip.base.color=#020617
+text.color=#e6edf3
+inactive.text.color=#3c4c60
+window.text.color=#e6edf3
+inactive.window.text.color=#3c4c60
+button.text.color=#e6edf3
+disabled.text.color=#3c4c60
 highlight.text.color=#020617
 inactive.highlight.text.color=#020617
-link.color=#4ABEFF
+link.color=#b45eff
 progress.indicator.text.color=#020617
 
 [Hacks]
