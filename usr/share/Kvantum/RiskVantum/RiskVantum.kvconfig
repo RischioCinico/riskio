@@ -32,10 +32,13 @@ inactive.base.color=#020617
 alt.base.color=#0b1120
 inactive.alt.base.color=#0b1120
 button.color=#0b1120
-light.color=#A8DEFF
-mid.light.color=#5C7C99
-dark.color=#1A242E
-mid.color=#223140
+
+
+
+light.color=#ff0000
+mid.light.color=#ffff00
+dark.color=#0000ff
+mid.color=#00ff00
 shadow.color=#000000
 highlight.color==#00aaff
 inactive.highlight.color=#008C99
