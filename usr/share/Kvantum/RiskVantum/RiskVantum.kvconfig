@@ -31,10 +31,10 @@ base.color=#081421
 inactive.base.color=#050B12
 alt.base.color=#0000002F
 inactive.alt.base.color=#0000002F
+button.color=#ffffff1A
 
 
 
-button.color=#0b1120
 light.color=#00aaff99
 mid.light.color=#00aaff66
 dark.color=#000000b3
