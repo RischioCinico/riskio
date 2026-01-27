@@ -39,13 +39,12 @@ mid.color=#00000040
 shadow.color=#00000099
 highlight.color=#00D3FF
 inactive.highlight.color=#00D3FF33
+tooltip.base.color=#000000E6
+text.color=#E0EEFF
+inactive.text.color=#E0EEFFBF
+window.text.color=#F0F8FFD9
+inactive.window.text.color=#F0F8FFD9
 
-
-tooltip.base.color=#020617
-text.color=#e6edf3
-inactive.text.color=#3c4c60
-window.text.color=#e6edf3
-inactive.window.text.color=#3c4c60
 button.text.color=#e6edf3
 disabled.text.color=#3c4c60
 highlight.text.color=#020617
