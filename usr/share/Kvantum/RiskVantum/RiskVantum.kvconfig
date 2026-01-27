@@ -37,9 +37,9 @@ mid.light.color=#00D3FF1A
 dark.color=#00000040
 mid.color=#00000073
 shadow.color=#00000040
+highlight.color=#00D3FF
 
 
-highlight.color=#00aaff
 inactive.highlight.color=#00aaff33
 tooltip.base.color=#020617
 text.color=#e6edf3
