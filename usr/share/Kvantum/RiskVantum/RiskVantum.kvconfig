@@ -44,13 +44,13 @@ text.color=#E0EEFF
 inactive.text.color=#E0EEFFBF
 window.text.color=#F0F8FFD9
 inactive.window.text.color=#F0F8FFD9
-
-button.text.color=#e6edf3
-disabled.text.color=#3c4c60
-highlight.text.color=#020617
-inactive.highlight.text.color=#020617
-link.color=#b45eff
-progress.indicator.text.color=#020617
+button.text.color=#F0F8FF
+disabled.text.color=#E0EEFF80
+highlight.text.color=#DFFA66
+inactive.highlight.text.color=#DFFA66BF
+link.color=#BD93F9
+link.visited.color=#BD93F9BF
+progress.indicator.text.color=#DFFA66
 
 [Hacks]
 transparent_dolphin_view=true
