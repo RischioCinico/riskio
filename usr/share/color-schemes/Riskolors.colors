@@ -21,8 +21,8 @@ IntensityEffect=2
 [Colors:Button]
 BackgroundAlternate=8,20,33
 BackgroundNormal=5,11,18
-DecorationFocus=0,211,255
-DecorationHover=0,211,255
+DecorationFocus=0,163,255
+DecorationHover=0,163,255
 ForegroundActive=223,250,102
 ForegroundInactive=140,155,175
 ForegroundLink=189,147,249
@@ -35,8 +35,8 @@ ForegroundVisited=189,147,249
 [Colors:Complementary]
 BackgroundAlternate=5,11,18
 BackgroundNormal=8,20,33
-DecorationFocus=0,211,255
-DecorationHover=0,211,255
+DecorationFocus=0,163,255
+DecorationHover=0,163,255
 ForegroundActive=223,250,102
 ForegroundInactive=140,155,175
 ForegroundLink=189,147,249
@@ -49,8 +49,8 @@ ForegroundVisited=189,147,249
 [Colors:Header]
 BackgroundAlternate=5,11,18
 BackgroundNormal=8,20,33
-DecorationFocus=0,211,255
-DecorationHover=0,211,255
+DecorationFocus=0,163,255
+DecorationHover=0,163,255
 ForegroundActive=223,250,102
 ForegroundInactive=140,155,175
 ForegroundLink=189,147,249
@@ -62,7 +62,7 @@ ForegroundVisited=189,147,249
 
 [Colors:Selection]
 BackgroundAlternate=224,238,255
-BackgroundNormal=0,211,255
+BackgroundNormal=0,163,255
 DecorationFocus=8,20,33
 DecorationHover=8,20,33
 ForegroundActive=5,11,18
@@ -77,8 +77,8 @@ ForegroundVisited=5,11,18
 [Colors:Tooltip]
 BackgroundAlternate=8,20,33
 BackgroundNormal=5,11,18
-DecorationFocus=0,211,255
-DecorationHover=0,211,255
+DecorationFocus=0,163,255
+DecorationHover=0,163,255
 ForegroundActive=223,250,102
 ForegroundInactive=140,155,175
 ForegroundLink=189,147,249
@@ -91,8 +91,8 @@ ForegroundVisited=189,147,249
 [Colors:View]
 BackgroundAlternate=5,11,18
 BackgroundNormal=8,20,33
-DecorationFocus=0,211,255
-DecorationHover=0,211,255
+DecorationFocus=0,163,255
+DecorationHover=0,163,255
 ForegroundActive=223,250,102
 ForegroundInactive=140,155,175
 ForegroundLink=189,147,249
@@ -105,8 +105,8 @@ ForegroundVisited=189,147,249
 [Colors:Window]
 BackgroundAlternate=5,11,18
 BackgroundNormal=8,20,33
-DecorationFocus=0,211,255
-DecorationHover=0,211,255
+DecorationFocus=0,163,255
+DecorationHover=0,163,255
 ForegroundActive=223,250,102
 ForegroundInactive=140,155,175
 ForegroundLink=189,147,249
