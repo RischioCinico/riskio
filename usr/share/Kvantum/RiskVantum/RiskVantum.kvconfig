@@ -235,6 +235,26 @@ text.margin.bottom=1
 text.margin.left=4
 text.margin.right=4
 
+[SizeGrip]
+indicator.element=resize-grip
+frame=false
+interior=false
+
+[Toolbar]
+inherits=PanelButtonCommand
+indicator.element=toolbar
+indicator.size=5
+frame.element=toolbar
+interior=false
+
+[ToolbarButton]
+
+[ToolbarComboBox]
+
+[ToolbarLineEdit]
+
+
+
 
 
 
@@ -244,21 +264,6 @@ text.margin.right=4
 [IndicatorArrow]
 indicator.element=arrow
 indicator.size=9
-
-[SizeGrip]
-inherits=PanelButtonCommand
-frame=false
-interior=false
-indicator.element=resize-grip
-indicator.size=13
-
-[Toolbar]
-inherits=PanelButtonCommand
-indicator.element=toolbar
-indicator.size=5
-text.margin=0
-frame.element=toolbar
-interior=false
 
 [Slider]
 inherits=PanelButtonCommand
