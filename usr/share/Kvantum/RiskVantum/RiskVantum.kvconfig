@@ -25,9 +25,9 @@ fill_rubberband=true
 remove_extra_frames=true
 
 [GeneralColors]
-window.color=#081421
+window.color=#04090f
 inactive.window.color=#050B12
-base.color=#081421
+base.color=#04090f
 inactive.base.color=#050B12
 alt.base.color=#0000002F
 inactive.alt.base.color=#0000002F
