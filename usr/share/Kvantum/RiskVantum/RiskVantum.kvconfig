@@ -89,7 +89,12 @@ indicator.element=arrow
 [PanelButtonTool]
 interior.element=tbutton
 frame.element=tbutton
+frame.expansion=20
 indicator.element=arrow
+frame.top=7
+frame.bottom=7
+frame.left=7
+frame.right=7
 
 [Dock]
 interior=true
