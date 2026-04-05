@@ -72,10 +72,8 @@ middle_click_scroll=false
 kinetic_scrolling=false
 
 [PanelButtonCommand]
-frame=true
 frame.element=button
 frame.expansion=20
-interior=true
 interior.element=button
 text.margin=true
 text.margin.top=9
@@ -104,7 +102,10 @@ interior=false
 
 [IndicatorSpinBox]
 indicator.element=arrow
-indicator.size=9
+indicator.size=10
+frame.element=tbutton
+frame.expansion=20
+interior.element=tbutton
 
 [RadioButton]
 
