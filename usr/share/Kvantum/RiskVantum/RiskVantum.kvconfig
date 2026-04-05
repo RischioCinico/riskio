@@ -97,11 +97,8 @@ frame.left=7
 frame.right=7
 
 [Dock]
-interior=true
 
 [DockTitle]
-frame=false
-interior=false
 text.bold=true
 
 [IndicatorSpinBox]
