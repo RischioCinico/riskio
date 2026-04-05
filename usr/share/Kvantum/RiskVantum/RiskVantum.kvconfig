@@ -168,15 +168,20 @@ interior.element=radio
 [CheckBox]
 interior.element=checkbox
 
-[Focus]
-
 [GenericFrame]
 frame.element=common
 interior=false
 
 [LineEdit]
+frame.expansion=20
 frame.element=lineedit
 interior.element=lineedit
+indicator.element=arrow
+text.margin=true
+text.margin.top=9
+text.margin.bottom=9
+text.margin.left=9
+text.margin.right=9
 
 [DropDownButton]
 indicator.element=arrow-down
