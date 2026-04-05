@@ -87,23 +87,19 @@ text.iconspacing=5
 indicator.element=arrow
 
 [PanelButtonTool]
-inherits=PanelButtonCommand
 interior.element=tbutton
 frame.element=tbutton
 indicator.element=arrow
 
 [Dock]
-inherits=PanelButtonCommand
 interior=true
 
 [DockTitle]
-inherits=PanelButtonCommand
 frame=false
 interior=false
 text.bold=true
 
 [IndicatorSpinBox]
-inherits=PanelButtonCommand
 indicator.element=arrow
 indicator.size=9
 
@@ -115,24 +111,19 @@ indicator.size=9
 frame=false
 
 [GenericFrame]
-inherits=PanelButtonCommand
 frame.element=common
 interior=false
 
 [LineEdit]
-inherits=PanelButtonCommand
 frame.element=lineedit
 interior.element=lineedit
 
 [DropDownButton]
-inherits=PanelButtonCommand
 indicator.element=arrow-down
 
 [ToolboxTab]
-inherits=PanelButtonCommand
 
 [Tab]
-inherits=PanelButtonCommand
 interior.element=tab
 text.margin.left=0
 text.margin.right=0
@@ -146,7 +137,6 @@ frame.left10
 frame.right=10
 
 [TabFrame]
-inherits=PanelButtonCommand
 frame.element=tabframe
 interior=false
 
@@ -157,7 +147,6 @@ frame=false
 [TreeExpander]
 
 [HeaderSection]
-inherits=PanelButtonCommand
 interior.element=header
 frame.element=header
 frame.top=0
@@ -170,35 +159,28 @@ text.margin.left=4
 text.margin.right=4
 
 [RadioButton]
-inherits=PanelButtonCommand
 interior.element=radio
 
 [CheckBox]
-inherits=PanelButtonCommand
 interior.element=checkbox
 
 [Focus]
 frame=false
 
 [GenericFrame]
-inherits=PanelButtonCommand
 frame.element=common
 interior=false
 
 [LineEdit]
-inherits=PanelButtonCommand
 frame.element=lineedit
 interior.element=lineedit
 
 [DropDownButton]
-inherits=PanelButtonCommand
 indicator.element=arrow-down
     
 [ToolboxTab]
-inherits=PanelButtonCommand
 
 [Tab]
-inherits=PanelButtonCommand
 interior.element=tab
 text.margin.left=0
 text.margin.right=0
@@ -212,7 +194,6 @@ frame.left10
 frame.right=10
 
 [TabFrame]
-inherits=PanelButtonCommand
 frame.element=tabframe
 interior=false
 
@@ -223,7 +204,6 @@ frame=false
 [TreeExpander]
 
 [HeaderSection]
-inherits=PanelButtonCommand
 interior.element=header
 frame.element=header
 frame.top=0
@@ -241,7 +221,6 @@ frame=false
 interior=false
 
 [Toolbar]
-inherits=PanelButtonCommand
 indicator.element=toolbar
 indicator.size=5
 frame.element=toolbar
