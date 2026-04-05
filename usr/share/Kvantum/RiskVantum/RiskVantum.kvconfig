@@ -133,7 +133,7 @@ frame.element=tab
 indicator.element=tab
 frame.top=10
 frame.bottom=10
-frame.left10
+frame.left=10
 frame.right=10
 
 [TabFrame]
