@@ -169,7 +169,6 @@ interior.element=radio
 interior.element=checkbox
 
 [Focus]
-frame=false
 
 [GenericFrame]
 frame.element=common
