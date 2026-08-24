@@ -27,8 +27,8 @@ TitleBorderLeft=0
 TitleBorderRight=0
 TitleHeight=20
 
-ButtonWidth=20
-ButtonHeight=15
+ButtonWidth=10
+ButtonHeight=10
 ButtonSpacing=10
 ButtonMarginTop=0
 ExplicitButtonSpacer=10
