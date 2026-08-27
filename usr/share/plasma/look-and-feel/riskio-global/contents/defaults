@@ -11,7 +11,7 @@ Theme=Riskio-Icons
 name=riskio-style
 
 [kcminputrc][Mouse]
-cursorTheme=DarkBolt
+cursorTheme=Breeze
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
