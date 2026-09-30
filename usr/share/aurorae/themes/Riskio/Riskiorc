@@ -1,10 +1,11 @@
 [General]
-TitleAlignment=Center
-TitleVerticalAlignment=Top
+TitleAlignment=Left
+TitleVerticalAlignment=Center
 Animation=500
 ActiveTextColor=168,222,255
 InactiveTextColor=224,238,255
 Shadow=false
+UseTextShadow=false
 
 [Layout]
 
