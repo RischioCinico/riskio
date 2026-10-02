@@ -10,31 +10,31 @@ Shadow=false
 [Layout]
 
 BorderLeft=4
-BorderRight=6
+BorderRight=4
 BorderBottom=4
 BorderTop=0
 
-TitleEdgeTop=4
-TitleEdgeBottom=4
-TitleEdgeLeft=4
-TitleEdgeRight=8
+TitleEdgeTop=5
+TitleEdgeBottom=0
+TitleEdgeLeft=6
+TitleEdgeRight=12
 
 TitleEdgeTopMaximized=5
 TitleEdgeBottomMaximized=0
 TitleEdgeLeftMaximized=5
 TitleEdgeRightMaximized=5
 
-TitleBorderLeft=8
-TitleBorderRight=8
+TitleBorderLeft=5
+TitleBorderRight=10
 TitleHeight=24
 
-ButtonWidth=25
+ButtonWidth=30
 ButtonHeight=20
 ButtonSpacing=5
 ButtonMarginTop=0
 ExplicitButtonSpacer=10
 
-PaddingTop=10
-PaddingBottom=8
-PaddingRight=8
-PaddingLeft=8
+PaddingTop=0
+PaddingBottom=0
+PaddingRight=0
+PaddingLeft=0
