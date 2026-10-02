@@ -73,7 +73,7 @@ kinetic_scrolling=false
 
 [PanelButtonCommand]
 frame.element=button
-frame.expansion=20
+frame.expansion=4
 interior.element=button
 text.margin=true
 text.margin.top=9
@@ -83,6 +83,10 @@ text.margin.right=9
 text.shadow=false
 text.iconspacing=5
 indicator.element=arrow
+frame.top=2
+frame.bottom=2
+frame.left=9
+frame.right=9
 
 [PanelButtonTool]
 interior.element=tbutton
