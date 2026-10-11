@@ -1,21 +1,18 @@
 [General]
 TitleAlignment=Left
-TitleVerticalAlignment=Center
-Animation=80
+TitleVerticalAlignment=Top
 ActiveTextColor=168,222,255
 InactiveTextColor=224,238,255
-UseTextShadow=false
-Shadow=false
 
 [Layout]
 
-BorderLeft=4
-BorderRight=4
-BorderBottom=4
+BorderLeft=0
+BorderRight=0
+BorderBottom=0
 BorderTop=0
 
-TitleEdgeTop=5
-TitleEdgeBottom=0
+TitleEdgeTop=4
+TitleEdgeBottom=2
 TitleEdgeLeft=6
 TitleEdgeRight=12
 
@@ -26,15 +23,15 @@ TitleEdgeRightMaximized=5
 
 TitleBorderLeft=5
 TitleBorderRight=10
-TitleHeight=24
+TitleHeight=16
 
-ButtonWidth=30
-ButtonHeight=20
+ButtonWidth=20
+ButtonHeight=15
 ButtonSpacing=5
-ButtonMarginTop=0
+ButtonMarginTop=2
 ExplicitButtonSpacer=10
 
 PaddingTop=0
-PaddingBottom=0
-PaddingRight=0
-PaddingLeft=0
+PaddingBottom=2
+PaddingRight=2
+PaddingLeft=2
