@@ -5,7 +5,7 @@ bold_active_tab=true
 group_toolbar_buttons=true
 toolbutton_style=1
 dialog_button_layout=1
-spread_progressbar=true
+spread_progressbar=false
 progressbar_thickness=2font
 merge_menubar_with_toolbar=false
 spread_menuitems=true
@@ -67,21 +67,18 @@ iconless_pushbutton=false
 transparent_arrow_button=true
 iconless_menu=false
 single_top_toolbar=false
-style_vertical_toolbars=true
+style_vertical_toolbars=false
 middle_click_scroll=false
 kinetic_scrolling=false
 
 [PanelButtonCommand]
-frame.element=button
-frame.expansion=20
-interior.element=button
 text.margin=true
-text.margin.top=9
-text.margin.bottom=9
-text.margin.left=9
-text.margin.right=9
+text.margin.top=3
+text.margin.bottom=3
+text.margin.left=6
+text.margin.right=6
 text.shadow=false
-text.iconspacing=5
+text.iconspacing=9
 indicator.element=arrow
 
 [PanelButtonTool]
@@ -89,10 +86,10 @@ interior.element=tbutton
 frame.element=tbutton
 frame.expansion=20
 indicator.element=arrow
-frame.top=7
-frame.bottom=7
-frame.left=7
-frame.right=7
+frame.top=5
+frame.bottom=5
+frame.left=5
+frame.right=5
 
 [Dock]
 
@@ -129,10 +126,10 @@ indicator.element=arrow-down
 
 [Tab]
 interior.element=tab
-text.margin.left=0
-text.margin.right=0
-text.margin.top=0
-text.margin.bottom=0
+text.margin.left=10
+text.margin.right=10
+text.margin.top=10
+text.margin.bottom=10
 frame.element=tab
 indicator.element=tab
 frame.top=10
@@ -229,10 +226,8 @@ frame=false
 interior=false
 
 [Toolbar]
-indicator.element=toolbar
-indicator.size=5
-frame.element=toolbar
 interior=false
+frame=false
 
 [ToolbarButton]
 
@@ -272,10 +267,12 @@ text.bold=true
 frame=true
 frame.element=progress-pattern
 interior.element=progress-pattern
-frame.top=7
-frame.bottom=7
-frame.left=7
-frame.right=7
+frame.top=6
+frame.bottom=6
+frame.left=4
+frame.right=4
+interior.x.patternsize=8
+interior.y.patternsize=0
 
 [ItemView]
 frame.element=itemview
